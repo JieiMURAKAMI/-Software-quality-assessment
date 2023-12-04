@@ -1,2 +1,1 @@
-# -Software-quality-assessment
 こんにちは
